@@ -30,9 +30,6 @@ public class TUIdemo extends TApplication {
         super(BackendType.SWING);
         
         new DataSource("./data/test.dat").loadData();
-        
-        DataSource ds = new DataSource("./data/test.dat");
-        ds.loadData();
 
         addToolMenu();
         //custom 'File' menu
