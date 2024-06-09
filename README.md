@@ -1,3 +1,8 @@
+# Завдання на 3
+![](photo/tui3.png)
+# Завдання на 5
+![](photo/tui5-1.png)
+![](photo/tui5-2.png)
 # UI Lab 1
 ![](terminal-icon.png)
 ![](gui-icon.png)
